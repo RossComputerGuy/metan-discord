@@ -1,5 +1,11 @@
 {
 	"login": {
 		"token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+	},
+	"mariadb": {
+		"host": "localhost",
+		"user": "me",
+		"password": "securepasswd",
+		"connectionLimit": 5
 	}
 }
