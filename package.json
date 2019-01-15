@@ -24,6 +24,7 @@
   "homepage": "https://github.com/SpaceboyRoss01/metan-discord#readme",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "mariadb": "^2.0.2-rc"
+    "mariadb": "^2.0.2-rc",
+    "yargs": "^12.0.5"
   }
 }
