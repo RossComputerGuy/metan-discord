@@ -7,5 +7,6 @@
 		"user": "me",
 		"password": "securepasswd",
 		"connectionLimit": 5
-	}
+	},
+	"prefix": "&"
 }
